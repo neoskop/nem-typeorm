@@ -21,6 +21,7 @@
     "di"
   ],
   "devDependencies": {
+    "@angular/core": "^6.1.0",
     "@neoskop/injector": "^1.3.2",
     "@neoskop/nem": "^0.5.4",
     "@types/chai": "^4.1.4",
@@ -33,6 +34,7 @@
     "typescript": "^2.9.2"
   },
   "peerDependencies": {
+    "@angular/core": "^6.1.0",
     "@neoskop/nem": "^0.5.4",
     "typeorm": "^0.2.7"
   }
