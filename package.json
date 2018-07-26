@@ -1,6 +1,6 @@
 {
   "name": "@neoskop/nem-typeorm",
-  "version": "0.0.0",
+  "version": "0.0.1-rc.0",
   "description": "Typeorm Module for @neoskop/nem",
   "main": "lib/index.js",
   "repository": "https://github.com/neoskop/nem-typeorm",
